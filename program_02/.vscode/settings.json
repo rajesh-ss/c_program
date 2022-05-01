@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.txt": "plaintext",
+        "2147227_linked_list_queue": "c"
+    }
+}
