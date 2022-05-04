@@ -59,7 +59,7 @@ int main()
     // arr - array
     int n = 0;
     std *ln = NULL;
-    int opt;
+    int opt = 1;
 
     while(opt){
     printf("\n\n------------------------------------------------------------------------\n");
